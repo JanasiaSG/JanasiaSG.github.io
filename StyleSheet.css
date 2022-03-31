@@ -8,12 +8,12 @@ div {
 }
 
 #theImage {
-  width: 300px;
+  width: 500px;
   /* height: 700px; */
   border: 2px solid white
 }
 
 #theImage img{
-  width: 300px;
+  width: 500px;
   display: none;
 }
