@@ -1,0 +1,34 @@
+h1{
+  text-align:center;
+}
+h2{
+  text-align:center;
+}
+h3{
+  text-align:center;
+}
+.Batman{
+  height:90vh;
+  width:30vw;
+  text-align:left;
+}
+.FirstAppear{
+  height:60vh;
+  width:20vw;
+  float:center;
+}
+.text1center{
+  border: 0px solid black;
+  display: flex;
+  justify-content: center;
+}
+
+img{
+  text-align:center;
+  height:60vh;
+  width:auto;
+}
+.Alfred{
+  height:63vh;
+  width:auto;
+}

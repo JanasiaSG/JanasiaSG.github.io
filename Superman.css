@@ -1,0 +1,40 @@
+.Superman{
+  height:90vh;
+  width:30vw;
+  text-align:left;
+  border:5px solid black;
+}
+h1{
+  text-align:center;
+}
+h2{
+  text-align:center;
+}
+.FirstAppear{
+  height:60vh;
+  width:20vw;
+  float:center;
+}
+h3{
+  text-align:center;
+}
+h4{
+  text-align:center;
+}
+img{
+  height:50vh;
+  width:30vw;
+  text-align:center;
+}
+.LoisLane{
+  height:50vh;
+  width:auto;
+}
+.Steel{
+  height:50vh;
+  width:40vw;
+}
+.Kon-El{
+  height:50vh;
+  width:23vw;
+}
