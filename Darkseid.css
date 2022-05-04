@@ -1,0 +1,28 @@
+h1{
+  text-align:center;
+}
+h2{
+  text-align:center;
+}
+h3{
+  text-align:center;
+}
+h4{
+  text-align:center;
+}
+.Darkseid{
+  height:90vh;
+  width:auto;
+  text-align:left;
+  border:5px solid black;
+}
+.FirstAppear{
+  height:60vh;
+  width:20vw;
+  float:center;
+}
+img{
+  text-align:center;
+  height:60vh;
+  width:auto;
+}

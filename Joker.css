@@ -1,0 +1,23 @@
+h1{
+  text-align:center;
+  color:Green;
+}
+h2{
+  text-align:center;
+    color:Green;
+}
+h3{
+  text-align:center;
+    color:Green;
+}
+.Joker{
+  height:90vh;
+  width:auto;
+  text-align:left;
+  border:5px solid black;
+}
+img{
+  text-align:center;
+  height:60vh;
+  width:auto;
+}

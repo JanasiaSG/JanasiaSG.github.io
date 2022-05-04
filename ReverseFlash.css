@@ -1,0 +1,23 @@
+h1{
+  text-align:center;
+}
+h2{
+  text-align:center;
+}
+h3{
+  text-align:center;
+}
+h4{
+  text-align:center;
+}
+img{
+  text-align:center;
+  height:60vh;
+  width:auto;
+}
+.Thawne{
+  height:90vh;
+  width:auto;
+  float:center;
+  border:5px solid black;
+}
